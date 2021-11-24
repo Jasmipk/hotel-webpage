@@ -128,7 +128,7 @@ ol {
 }
 
 .section-title h1 {
-	color: #242424;
+	color: #e54e06;
 	font-size: 72px;
 	font-weight: 400;
 	line-height: 72px;
@@ -141,7 +141,7 @@ ol {
 }
 
 .spad {
-	padding-top: 200px;
+	padding-top: 50px;
 	padding-bottom: 100px;
 }
 
@@ -170,7 +170,7 @@ ol {
 	color: #081624;
 	font-family: "Open Sans", sans-serif;
 	text-transform: uppercase;
-	border: 2px solid #AE954B;
+	border: 2px solid #e54e06;
 	position: relative;
 }
 
@@ -179,7 +179,7 @@ ol {
 	right: 25px;
 	top: 14px;
 	font-size: 21px;
-	color: #AE9548;
+	color: #e54e06;
 }
 
 .submit-btn {
@@ -350,7 +350,7 @@ ol {
 }
 
 .inner-header .main-menu ul li:hover a {
-	color: #ae9548;
+	color: #e54e06;
 }
 
 .inner-header .main-menu ul li .drop-menu {
@@ -372,7 +372,7 @@ ol {
 }
 
 .inner-header .main-menu ul li .drop-menu li:hover a {
-	color: #ae9548;
+	color: #e54e06;
 }
 
 .inner-header .main-menu ul li .drop-menu li a {
@@ -582,7 +582,7 @@ ol {
 
 .room-item .room-text .room-features .room-info i {
 	display: block;
-	color: #ae9548;
+	color: #c73b05;
 	margin-bottom: -4px;
 }
 
@@ -599,7 +599,7 @@ ol {
 	padding-right: 60px;
 	padding-top: 55px;
 	/* padding-bottom: 61px; */
-	border: 2px solid #AE9548;
+	border: 2px solid #e54e06;
 	margin-bottom: 40px;
 }
 
@@ -759,7 +759,7 @@ ol {
 	right: -45px;
 	bottom: 7px;
 	font-size: 31px;
-	color: #AE9548;
+	color: #e54e06;
 }
 
 .nice-select {
@@ -789,7 +789,7 @@ ol {
 	font-size: 48px;
 	font-weight: 500;
 	line-height: 56px;
-	color: #242424;
+	color: #21bcd5;
 	margin-bottom: 26px;
 }
 
@@ -798,7 +798,7 @@ ol {
 }
 
 .about-room .about-para p {
-	color: #242424;
+	color: #c58c8c;
 	line-height: 32px;
 }
 
@@ -844,7 +844,7 @@ ol {
 }
 
 .facilities-content .facilities-text h2 {
-	color: #242424;
+	color: #21bcd5;
 	letter-spacing: 0.2px;
 	margin-bottom: 17px;
 }
@@ -852,8 +852,8 @@ ol {
 .facilities-content .facilities-text p {
 	font-size: 18px;
 	line-height: 36px;
-	color: #242424;
-	color: #242424;
+	color: #c58c8c;
+	color: #c58c8c ;
 	margin-bottom: 24px;
 }
 
@@ -910,7 +910,7 @@ ol {
 .footer-section .single-footer-widget h5 {
 	font-size: 18px;
 	line-height: 42px;
-	color: #ae9548;
+	color: #e54e06;
 }
 
 .footer-section .single-footer-widget .widget-text {
@@ -922,7 +922,7 @@ ol {
 	left: 0;
 	top: 5px;
 	font-size: 18px;
-	color: #ae9548;
+	color: #e54e06;
 }
 
 .footer-section .single-footer-widget .widget-text p {
@@ -968,4 +968,11 @@ ol {
 	line-height: 14px;
 	color: #ffffff;
 	margin-right: 30px;
+}
+/* slider */
+.slider-align{
+	padding-top: 6%;
+}
+.slider-inner{
+	height: 800px;
 }
