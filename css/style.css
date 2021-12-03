@@ -817,6 +817,7 @@ ol {
 	position: relative;
 	height: var(--size-pictureframe);
 	margin-left: calc(var(--size-pictureframe) * 0.5);
+	text-align: -webkit-center;
 }
 .circles-gallery > * {
 	position: relative;
@@ -1359,4 +1360,3 @@ ol {
     text-decoration-line :overline;
 	background-color: black;
 }
-
