@@ -818,6 +818,7 @@ ol {
 	height: var(--size-pictureframe);
 	margin-left: calc(var(--size-pictureframe) * 0.5);
 	text-align: -webkit-center;
+	text-align: center;
 }
 .circles-gallery > * {
 	position: relative;
@@ -1340,6 +1341,9 @@ ol {
 }
 
 /* Offcanvas  */
+.topnav-btn{
+	float: right !important;
+}
 
 .offcanvas-decoration{
 	background-color:rgba(0, 0, 0, 0.89);
